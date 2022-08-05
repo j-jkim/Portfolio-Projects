@@ -1,2 +1,2 @@
-# Portfolio-Projects
+# Justine's Portfolio
 Personal Projects
