@@ -1,3 +1,7 @@
+# Write a program that prints out every possible time value for a single day
+# Print out the hours, minutes, and seconds starting at midnight and continue on to 11:59:59 PM
+
+
 # set up hour
 for hour in range(0,24):
    
