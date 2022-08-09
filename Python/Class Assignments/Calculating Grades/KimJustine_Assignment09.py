@@ -1,8 +1,3 @@
-# Name: Justine Kim     # Date: 5/5/19
-# NetID: jk5565         # Section: CSCI-UA.0002-1
-# Assignment 9          # Program: Part 1 - 4 + Extra Credit
-
-
 # try-except-else to open the file
 while True:
     try:
@@ -76,7 +71,7 @@ print('Median score:',format(median_score,".2f"))
 print('Mode:',mode_score)
 print('Range:',range_score)
 
-# to ask if user wants to curve (Extra Credit)
+# to ask if user wants to curve
 curve = input("Would you like to curve the exam? 'y' or 'n': ")
 while curve == 'y':
     desired_mean = float(input("Enter a desired mean (i.e. 75.0 to raise mean score\
