@@ -1,3 +1,5 @@
+# Write a program that lists the first 25 Fibonacci numbers. The first two are 0 and 1.
+
 # setting up variables (first two #s)
 n1 = 0
 n2 = 1
