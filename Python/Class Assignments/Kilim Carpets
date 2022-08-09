@@ -1,3 +1,5 @@
+# Create a kilim carpet design using only loops + nested loops
+
 ## spaced rectanges - tails of carpet
 current = 0
 while current < 2:
