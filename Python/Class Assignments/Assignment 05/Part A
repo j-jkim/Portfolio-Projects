@@ -1,8 +1,3 @@
-# Name: Justine Kim     # Date: 3/20/19
-# NetID: jk5565         # Section: CSCI-UA.0002-1
-# Assignment 5          # Program: 3A
-
-
 # ask user to enter a number
 pos_num = int(input("Enter a positive number to test: "))
 
