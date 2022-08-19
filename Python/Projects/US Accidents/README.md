@@ -1,7 +1,7 @@
 # Explanatory Data Analysis on US Accidents from 2016 to 2021
 
 **Description:** This dataset was found on Kaggle.com (https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). <br/>
-"This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to Dec 2021, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 2.8 million accident records in this dataset." <br/>
+This is a car accident dataset that covers 49 states of the USA from 2016 t0 2021. Currently, there are about 2.8 million accident records in this dataset. <br/>
 
 **Modules Used:** Pandas, Matplotlib, NumPy, Seaborn <br/>
 **Process:** 
